@@ -5,7 +5,7 @@ import { LinkContainer } from 'react-router-bootstrap';
 import './NavMenu.css';
 
 export class NavMenu extends Component {
-  displayName = NavMenu.name
+  displayName = NavMenu.name;
 
   render() {
     return (
@@ -32,6 +32,11 @@ export class NavMenu extends Component {
               <NavItem>
                 <Glyphicon glyph='th-list' /> Fetch data
               </NavItem>
+            </LinkContainer>
+            <LinkContainer to={'/networth'}>
+                <NavItem>
+                    <Glyphicon glyph='gbp' /> Net Worth
+                </NavItem>
             </LinkContainer>
           </Nav>
         </Navbar.Collapse>
