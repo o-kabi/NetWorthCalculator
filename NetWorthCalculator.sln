@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorthCalculator", "NetWorthCalculator\NetWorthCalculator.csproj", "{261178E6-0823-4306-AE6E-1FA6C5917A18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261178E6-0823-4306-AE6E-1FA6C5917A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261178E6-0823-4306-AE6E-1FA6C5917A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261178E6-0823-4306-AE6E-1FA6C5917A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261178E6-0823-4306-AE6E-1FA6C5917A18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
